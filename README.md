@@ -2,7 +2,7 @@
 
 api - бэкенд на FastAPI
 
-client - интерфейс
+client - интерфейс на React
 
 storage - сервер-хранилище
 
